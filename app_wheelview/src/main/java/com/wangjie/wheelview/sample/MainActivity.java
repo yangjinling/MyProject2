@@ -14,6 +14,7 @@ import com.wangjie.wheelview.WheelView;
 
 import java.util.Arrays;
 
+//两列的dilog
 public class MainActivity extends Activity implements View.OnClickListener {
     private static final String TAG = MainActivity.class.getSimpleName();
     private static final String[] PLANETS = new String[]{"Mercury", "Venus", "Earth", "Mars", "Jupiter", "Uranus", "Neptune", "Pluto"};
