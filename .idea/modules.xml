@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyProject2.iml" filepath="$PROJECT_DIR$/MyProject2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app1/app1.iml" filepath="$PROJECT_DIR$/app1/app1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appGlide/appGlide.iml" filepath="$PROJECT_DIR$/appGlide/appGlide.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appRecycleViewItem/appRecycleViewItem.iml" filepath="$PROJECT_DIR$/appRecycleViewItem/appRecycleViewItem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appRxjava/appRxjava.iml" filepath="$PROJECT_DIR$/appRxjava/appRxjava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appSearch/appSearch.iml" filepath="$PROJECT_DIR$/appSearch/appSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_wheelview/app_wheelview.iml" filepath="$PROJECT_DIR$/app_wheelview/app_wheelview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fenleiexercise/fenleiexercise.iml" filepath="$PROJECT_DIR$/fenleiexercise/fenleiexercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frescoexercise/frescoexercise.iml" filepath="$PROJECT_DIR$/frescoexercise/frescoexercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/getappversion/getappversion.iml" filepath="$PROJECT_DIR$/getappversion/getappversion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/headview/headview.iml" filepath="$PROJECT_DIR$/headview/headview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jellyball/jellyball.iml" filepath="$PROJECT_DIR$/jellyball/jellyball.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my/my.iml" filepath="$PROJECT_DIR$/my/my.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mydefineview/mydefineview.iml" filepath="$PROJECT_DIR$/mydefineview/mydefineview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mygreendao/mygreendao.iml" filepath="$PROJECT_DIR$/mygreendao/mygreendao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mylibrary/mylibrary.iml" filepath="$PROJECT_DIR$/mylibrary/mylibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mymaterialdesign/mymaterialdesign.iml" filepath="$PROJECT_DIR$/mymaterialdesign/mymaterialdesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mymaterialdesignend/mymaterialdesignend.iml" filepath="$PROJECT_DIR$/mymaterialdesignend/mymaterialdesignend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mymvp/mymvp.iml" filepath="$PROJECT_DIR$/mymvp/mymvp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myobserver/myobserver.iml" filepath="$PROJECT_DIR$/myobserver/myobserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myslidingmune/myslidingmune.iml" filepath="$PROJECT_DIR$/myslidingmune/myslidingmune.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysortlistview/mysortlistview.iml" filepath="$PROJECT_DIR$/mysortlistview/mysortlistview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myviewpager/myviewpager.iml" filepath="$PROJECT_DIR$/myviewpager/myviewpager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myxutil/myxutil.iml" filepath="$PROJECT_DIR$/myxutil/myxutil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rxjava/rxjava.iml" filepath="$PROJECT_DIR$/rxjava/rxjava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rxjava_viewpager/rxjava_viewpager.iml" filepath="$PROJECT_DIR$/rxjava_viewpager/rxjava_viewpager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sampleAdapter/sampleAdapter.iml" filepath="$PROJECT_DIR$/sampleAdapter/sampleAdapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swipeback/swipeback.iml" filepath="$PROJECT_DIR$/swipeback/swipeback.iml" />
+      <module fileurl="file://$PROJECT_DIR$/umengexercise/umengexercise.iml" filepath="$PROJECT_DIR$/umengexercise/umengexercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/userdao/userdao.iml" filepath="$PROJECT_DIR$/userdao/userdao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiuxiu/xiuxiu.iml" filepath="$PROJECT_DIR$/xiuxiu/xiuxiu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiuyixiu/xiuyixiu.iml" filepath="$PROJECT_DIR$/xiuyixiu/xiuyixiu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xutilsexercise/xutilsexercise.iml" filepath="$PROJECT_DIR$/xutilsexercise/xutilsexercise.iml" />
+    </modules>
+  </component>
+</project>
